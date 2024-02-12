@@ -11,6 +11,18 @@ Brought to you by the creators of Matrix, who have been running the biggest home
 """
 
 [[providers]]
+name = "Test"
+image = "logo-ems-primary.svg"
+website = "https://ems.element.io"
+operating_since = "2018"
+description = """
+- Hosted Homeservers
+- [Hosted Integrations including Slack, IRC, Github bridging](https://element.io/element-matrix-store)
+
+Brought to you by the creators of Matrix, who have been running the biggest homeserver in the network since 2014. Every homeserver comes with a custom instance of Element.
+"""
+
+[[providers]]
 name = "Ungleich.ch"
 image = "ungleich_zerocarbonmatrix.jpg"
 website = "https://matrix.zerocarbon.shop"
